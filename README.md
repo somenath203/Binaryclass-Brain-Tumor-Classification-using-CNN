@@ -7,4 +7,4 @@ https://www.kaggle.com/datasets/ahmedhamada0/brain-tumor-detection
 
 ## Warning
 
-While this model is able to classify brain tumors correctly, but in some cases, the model may misclassify tumors or fail to detect them altogether, therefore, it is strongly advised not to rely solely on the output of this model.
+While the model of this project can classify brain tumors correctly, but in some cases, the model may misclassify tumors or fail to detect them altogether, therefore, it is strongly advised not to rely solely on the output of this model.
