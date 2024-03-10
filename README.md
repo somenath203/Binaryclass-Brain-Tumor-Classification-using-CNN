@@ -1,4 +1,4 @@
-# Binaryclass-Brain-Tumor-Classification-using-CNN
+# Binaryclass Brain Tumor Classification using CNN
 
 This is a project which uses Tensorflow, Convolutional Neural Network (CNN), and Streamlit to analyze MRI images of Brain and detect the presence or absence of Tumors.
 
